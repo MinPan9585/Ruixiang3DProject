@@ -53,7 +53,7 @@ namespace InfimaGames.LowPolyShooterPack.Legacy
 					audioSource.Play();
 
 					//Start the timer
-					StartCoroutine(DelayTimer());
+					//StartCoroutine(DelayTimer());
 					routineStarted = true;
 				}
 			}
